@@ -45,16 +45,15 @@ body {
 
 .blog_tag {
     margin-left: 16px;
-    padding: 6px 15px;
+    padding: 6px 16px;
     font-size: 10px;
-    border-radius: 10px;
+    border-radius: 15px;
     width: fit-content;
     align-self: baseline;
     margin-bottom: 16px;
     background-color: #E6D6FC;
     color: #883AE1;
     font-weight: 700;
-    
 }
 
 .blog_desc {
